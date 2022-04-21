@@ -5,6 +5,8 @@ This was used for the Google Solutions Challenge UP Diliman 2021: TensorFlow Wor
 
 Accompanying slides can be found here: [Slides Link](https://drive.google.com/file/d/1JiIHx35AXcpvhUgveyR6fbCtpDezI7Ph/view?usp=sharing)
 
+Recorded talk can be viewed here (1:40:14 mark): [Tensorflow/Machine Learning Workshop](https://www.facebook.com/GDSCupdiliman/videos/181924306867950)\
+
 ## I. Dataset
 
 A dataset was already prepared in `en_tl_data.csv`
